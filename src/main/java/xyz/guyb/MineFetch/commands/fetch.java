@@ -1,4 +1,4 @@
-package xyz.guyb.commands;
+package xyz.guyb.MineFetch.commands;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
@@ -7,7 +7,7 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.configuration.file.FileConfiguration;
 import oshi.SystemInfo;
-import xyz.guyb.MineFetch;
+import xyz.guyb.MineFetch.MineFetch;
 
 import java.lang.management.ManagementFactory;
 import java.time.Duration;

@@ -1,8 +1,8 @@
-package xyz.guyb;
+package xyz.guyb.MineFetch;
 
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.plugin.java.JavaPlugin;
-import xyz.guyb.commands.fetch;
+import xyz.guyb.MineFetch.commands.fetch;
 
 import java.util.Objects;
 

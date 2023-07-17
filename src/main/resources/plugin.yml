@@ -1,6 +1,6 @@
 name: MineFetch
 version: 1.0
-main: xyz.guyb.MineFetch
+main: xyz.guyb.MineFetch.MineFetch
 authors:
   - Guy Brown (Lineage_MC)
 commands:
